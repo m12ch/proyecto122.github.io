@@ -1,0 +1,27 @@
+*/* afecta todo el documento*/
+{
+    margin: 20px;
+}
+body{
+    font-family: Comic Sans MS;
+    background-color: darkcyan;
+}
+h1{
+    padding: 10px;/*relleno*/
+    border: 15px;
+    border-style: inset;
+    color:pink;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p{
+    color:orange;
+    text-align: justify;
+    background-color: gold;
+}
+img{
+    width: 30%;
+    
+}
